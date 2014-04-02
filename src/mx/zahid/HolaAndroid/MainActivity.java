@@ -46,6 +46,12 @@ public class MainActivity extends Activity {
 		print(layout, "Texto tamaño 28 magenta ", 28, 255, 0 , 255);
 		print(layout, "Texto tamaño 24 cyan ", 24, 0, 255 , 255);
 		*/
+		print(layout, "Texto tamaño 18 rojo ", 18, 255, 0 , 0);
+		print(layout, "Texto tamaño 24 verde ", 24, 0, 255 , 0);
+		print(layout, "Texto tamaño 28 azul ", 28, 0, 0 , 255);
+		print(layout, "Texto tamaño 32 amarillo ", 32, 255, 255 , 0);
+		print(layout, "Texto tamaño 28 magenta ", 28, 255, 0 , 255);
+		print(layout, "Texto tamaño 24 cyan ", 24, 0, 255 , 255);
 		print(layout, "La suma de "+ a +" + "+ b + " es " + c, 18, 0, 0 , 255);
 	}
 	
